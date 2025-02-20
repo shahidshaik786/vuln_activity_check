@@ -32,4 +32,4 @@ If the target activity opens unexpectedly, investigate further.<br/>
 ## Disclaimer: 
 This tool is intended for ethical security testing and research purposes only. Do not use it on apps without proper authorization. 🚀<br/>
 
-# A Special Thanks to [Sravanthi CH](https://github.com/sravanthi0706) for developing this tool.
+## A Special Thanks to [Sravanthi CH](https://github.com/sravanthi0706) for developing this tool.
